@@ -11,6 +11,7 @@ This project is a Dash web application that allows users to enter details about 
 ## Setup and Installation
 1. Ensure you have Python installed.
 2. Install the necessary libraries:
+   
    ```bash
    pip install dash dash-bootstrap-components
    
