@@ -21,7 +21,7 @@ This project is a Dash web application that allows users to enter details about 
 2. Run the application:
 
 ```bash
-   python <name_of_the_file>.py
+   python -u form.py
 ```
 3. Open a web browser and navigate to http://127.0.0.1:8050/ to access the application.
 
